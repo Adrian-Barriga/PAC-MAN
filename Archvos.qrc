@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/PacMan">
+        <file>PacMan/Pac-man theme remix - By Arsenic1987.mp3</file>
+        <file>PacMan/Pacman/Pacman_Arriba.png</file>
+        <file>PacMan/Pacman/Pacman_Derecha.png</file>
+        <file>PacMan/Pacman/Pacman_Frente.png</file>
+        <file>PacMan/Pacman/Pacman_Izquierda.png</file>
+    </qresource>
+</RCC>
